@@ -19,7 +19,7 @@ The application will allow any user to write and save notes to organize  thought
 
 ## Preview of App 
 
-![Screenshot](APPIMAGE.jpg)
+![Screenshot](./Assets/11-express-homework-demo-02.png)
 
 # Lincense
 * MIT
