@@ -1,5 +1,7 @@
 # Note-Taker-Express
 
+# Repo Link: (https://github.com/chronoslou/Note-Taker-Express)
+# Heroku Link: (https://aqueous-retreat-59992.herokuapp.com/)
 
 ## Description
 This is a  Note Taker application that can be used to write and save notes. This application will uses Express.js in the back end and will save and retrieve note data from a JSON file.
